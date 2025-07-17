@@ -1,41 +1,151 @@
 {
-  "heroTitle": {
+  "hero": {
     "availableForProjects": "Available for new projects",
-    "heroDescription": "I develop modern web solutions by integrating design, logic, and external services to bring impactful projects to life.",
+    "Description": "I build modern web solutions that combine design, development, and third-party integrations to make your ideas a reality.",
     "line1": "Technology at the",
-    "highlight1": "Service",
+    "highlight1": "service",
     "line2": "of your",
-    "highlight2": "Ideas"
+    "highlight2": "ideas",
+    "cta1": "Let's talk",
+    "cvButton": "View CV"
   },
-  
   "showcase": {
     "title": "SHOWCASE",
     "subtitle": "Some of my latest work"
   },
   "aboutMe": {
-    "heading": "I turn complexity into digital simplicity, with an approach that blends modern design and exceptional performance. Developing isn’t just my job — it’s my passion.",
+    "heading": "I'm passionate about turning ideas into elegant digital solutions, where modern design and performance come together to create inspiring web experiences.",
     "title": "ABOUT ME",
-    "paragraph1": "I specialize in building dynamic, responsive websites, with great attention to detail to deliver smooth and engaging user experiences.",
-    "paragraph2": "I love working with the latest technologies and turning ideas into digital reality. I enjoy exploring new design trends and constantly improving my skills."
+    "paragraph1": "Full Stack Developer",
+    "paragraph2": "Dynamic websites and web apps focused on usability, modern design, and performance. I analyze each project to propose practical and effective solutions. I enjoy technical challenges and value quality work, always aiming to deliver real value through technology."
   },
-  "servicesTitle": "Services",
-  "servicesDescription": "From idea to execution, I turn visions into digital solutions.",
-  "landingPagesTitle": "Landing Pages",
-  "landingPagesDescription": "Conversion-focused landing pages tailored to your business.",
-  "whatIOffer": "What I offer:",
-  "landingPagesOffer1": "Responsive design",
-  "landingPagesOffer2": "SEO optimization",
-  "landingPagesOffer3": "Fast loading speed",
-  "landingPagesOffer4": "Custom animations",
-  "designsTitle": "Graphic Design",
-  "designsDescription": "Visuals that leave a lasting impression.",
-  "designTools": "Tools I use:",
-  "photoshop": "Photoshop",
-  "illustrator": "Illustrator",
-  "mernTitle": "MERN Stack Development",
-  "mernDescription": "Full-stack applications built with MongoDB, Express, React, and Node.",
-  "mernOffer1": "Custom APIs",
-  "mernOffer2": "Database integration",
-  "mernOffer3": "Responsive UI",
-  "mernOffer4": "Authentication systems"
+  "services": {
+    "title": "SERVICES",
+    "subtitle": "I can help you with...",
+    "items": [
+      {
+        "title": "Landing Pages",
+        "description": "High-converting, fast-loading, responsive landing pages tailored for your campaigns."
+      },
+      {
+        "title": "SaaS Websites",
+        "description": "Custom marketing websites for your SaaS product that communicate clearly and convert."
+      },
+      {
+        "title": "E-commerce",
+        "description": "Shopify or custom storefronts designed for performance and optimized for sales."
+      },
+      {
+        "title": "UI/UX Design",
+        "description": "Modern interfaces that are not just beautiful but also intuitive and user-friendly."
+      }
+    ]
+  },
+  "why": {
+    "heading": "Why work with me?",
+    "intro": "A mix of technical skills and a human approach that ensures great results.",
+    "reasons": [
+      {
+        "title": "Creative & strategic thinking",
+        "description": "I combine design sensibility with problem solving to build purposeful digital products."
+      },
+      {
+        "title": "Efficient & reliable",
+        "description": "I deliver on time and maintain close communication throughout the process."
+      },
+      {
+        "title": "Collaborative spirit",
+        "description": "I enjoy working with people and adapting to each client’s vision and goals."
+      },
+      {
+        "title": "Innovative approach",
+        "description": "I stay ahead of trends, bringing fresh and innovative ideas to each project."
+      },
+      {
+        "title": "Attention to detail",
+        "description": "I focus on the small details that make a big impact on the final result."
+      },
+      {
+        "title": "User-first mindset",
+        "description": "I design with empathy to create experiences that resonate with real people."
+      }
+    ]
+  },
+  "faqs": {
+    "titleLine1": "DESIGN YOUR FUTURE:",
+    "titleLine2": "CLEAR PATH UNVEILED",
+    "titleLine3": "STEP BY STEP",
+    "questions": [
+      {
+        "q": "How long does it take to build my website?",
+        "a": "The timeline depends on your project’s scope, but a typical website, such as a landing page or small e-commerce site, is completed in 2 to 4 weeks. This includes discovery, design, development, testing, and launch. Complex projects like SaaS platforms may take longer, and I’ll provide a detailed timeline upfront."
+      },
+      {
+        "q": "Can I update my website content after it’s built?",
+        "a": "Absolutely. I can integrate a user-friendly content management system (CMS) so you can easily edit text, images, and products. For non-CMS sites, I provide a tailored guide or video tutorial to empower you to make updates independently."
+      },
+      {
+        "q": "What kind of support do you offer post-launch?",
+        "a": "I provide a 30-day support period after launch to ensure everything runs smoothly, addressing any issues promptly. Optional maintenance plans are available for ongoing updates, security monitoring, performance optimization, and feature enhancements."
+      },
+      {
+        "q": "Can you build custom features like e-commerce or booking systems?",
+        "a": "Yes, I specialize in custom solutions. Whether you need an e-commerce store with payment gateways, a booking system, or a SaaS platform with advanced functionality, I’ll tailor the solution to your needs using modern technologies."
+      },
+      {
+        "q": "Will my website work seamlessly on mobile devices?",
+        "a": "Every website I build is fully responsive, ensuring a flawless experience across smartphones, tablets, and desktops. I prioritize mobile-first design and test rigorously to guarantee performance and usability on all devices."
+      },
+      {
+        "q": "What do you need from me to start a project?",
+        "a": "To kick things off, share your business goals, any existing content (e.g., text, logos, images), and examples of websites you admire. If you’re unsure, I’ll guide you through a discovery phase to clarify your vision and create a tailored plan."
+      }
+    ]
+  },
+    "Contact": {
+      "title.part1": "Your",
+      "title.highlight": "project",
+      "title.part2": "your added value.",
+      "subtitle": "Let’s build something that makes a difference.",
+      "email": "nicolas.siciliano.dev@gmail.com"
+  },
+    "footer": {
+      "slogan": "Bring code to life. Let it speak for you.",
+      "projects": "Projects",
+      "social": "Social"
+    },
+    "dark_mode": {
+      "light": "Light Mode",
+      "dark": "Dark Mode"
+    },
+    "change_language": "Change language",
+      
+    "project_detail": {
+        "visit_site": "Visit site",
+        "about": "About the project",
+        "previous": "Previous",
+        "next": "Next",
+        "back_to_home": "Home",
+        "offer": "Offer",
+        "contact": "Contact"
+      },
+  "projects": {
+    "crypto-hub": {
+      "role": "FULL-STACK DEVELOPMENT",
+      "description": "Web application for tracking and analyzing the crypto market. Designed as a personal tool, it allows real-time price viewing, portfolio simulation, trade logging, and trend analysis. Integrates public APIs and stores user-customized information. Built with Vue and Supabase."
+    },
+    "subilo": {
+      "role": "FULL-STACK DEVELOPMENT / SEO",
+      "description": "SaaS platform for sharing high-quality audio tracks privately. Personal project in development, focused on SEO, user experience, and idea validation. Built with React, Supabase, and Tailwind."
+    },
+    "bykalanit": {
+      "role": "FREELANCE / LANDING / SEO",
+      "description": "Landing page designed for an entrepreneur client. Showcases handmade embroidered products, with responsive design, visual identity, and SEO optimization. Built with next.js, tailwind, and framer motion."
+    }
+  },
+  "social": {
+    "description": "Beyond code, I'm passionate about crypto, music, and spaces where creativity meets technology. I enjoy connecting with curious people, makers, digital musicians, or developers eager to create and share.\n\nIf you share that energy, let's connect!",
+    "connect": "Connect with me →",
+    "explore": "Explore my portfolio →"
+  }
 }

@@ -1,4 +1,4 @@
-import { useRef, useLayoutEffect, useState } from "react";
+import { useRef, useState, useEffect, useLayoutEffect } from "react";
 import {
   motion,
   useScroll,
@@ -9,10 +9,14 @@ import {
   useAnimationFrame,
 } from "framer-motion";
 
+// 👇 esta es la magia para evitar la advertencia en SSR
+const useIsomorphicLayoutEffect =
+  typeof window !== "undefined" ? useLayoutEffect : useEffect;
+
 function useElementWidth(ref) {
   const [width, setWidth] = useState(0);
 
-  useLayoutEffect(() => {
+  useIsomorphicLayoutEffect(() => {
     function updateWidth() {
       if (ref.current) {
         setWidth(ref.current.offsetWidth);

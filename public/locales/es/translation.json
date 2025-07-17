@@ -1,41 +1,151 @@
 {
-  "heroTitle": {
+  "hero": {
     "availableForProjects": "Disponible para nuevos Proyectos",
-    "heroDescription": "Me especializo en crear sitios y aplicaciones web elegantes y de alto rendimiento usando tecnologías de vanguardia.",   
+    "Description": "Me especializo en crear sitios y aplicaciones web elegantes y de alto rendimiento usando tecnologías de vanguardia.",   
     "line1": "Tecnología en el",
-    "highlight1": "Servicio",
+    "highlight1": "servicio",
     "line2": "de tus",
-    "highlight2": "Ideas"
+    "highlight2": "ideas",
+    "cta1": "Hablemos",
+    "cvButton": "Ver CV"
   },
   
   "showcase": {
-    "title": "Proyectos",
+    "title": "PROYECTOS",
     "subtitle": "Algunos de mis trabajos más recientes"
   },
   "aboutMe": {
-    "heading": "Transformo la complejidad en simplicidad digital, con un enfoque que combina diseño moderno y rendimiento excepcional. Desarrollar no es sólo mi trabajo, es mi pasión.",
+    "heading": "Me apasiona convertir ideas en soluciones digitales elegantes, donde el diseño moderno y el rendimiento se encuentran para crear experiencias web que inspiran.",
     "title": "ACERCA DE MÍ",
-    "paragraph1": "Me dedico a crear sitios web dinámicos y responsivos, con atención al detalle para ofrecer experiencias de usuario fluidas y atractivas. ",
-    "paragraph2": "Me encanta trabajar con las últimas tecnologías y convertir ideas en realidad digital. Disfruto explorando nuevas tendencias en diseño y mejorando continuamente mis habilidades."
+    "paragraph1": "Desarrollador Full Stack",
+    "paragraph2": "Creo sitios y aplicaciones web dinámicas, enfocados en usabilidad, diseño actual y rendimiento. Analizo cada proyecto para proponer soluciones prácticas y efectivas. Disfruto los desafíos técnicos y valoro el trabajo bien hecho, siempre buscando aportar valor real con tecnología."
   },
-  "servicesTitle": "Servicios",
-  "servicesDescription": "Desde la idea hasta la ejecución, transformo visiones en soluciones digitales.",
-  "landingPagesTitle": "Landing Pages",
-  "landingPagesDescription": "Páginas de aterrizaje enfocadas en conversión, adaptadas a tu negocio.",
-  "whatIOffer": "Lo que ofrezco:",
-  "landingPagesOffer1": "Diseño responsivo",
-  "landingPagesOffer2": "Optimización SEO",
-  "landingPagesOffer3": "Carga rápida",
-  "landingPagesOffer4": "Animaciones personalizadas",
-  "designsTitle": "Diseño Gráfico",
-  "designsDescription": "Visuales que dejan una impresión duradera.",
-  "designTools": "Herramientas que uso:",
-  "photoshop": "Photoshop",
-  "illustrator": "Illustrator",
-  "mernTitle": "Desarrollo MERN Stack",
-  "mernDescription": "Aplicaciones full-stack con MongoDB, Express, React y Node.",
-  "mernOffer1": "APIs personalizadas",
-  "mernOffer2": "Integración de bases de datos",
-  "mernOffer3": "Interfaz responsiva",
-  "mernOffer4": "Sistemas de autenticación"
+  "services": {
+  "title": "SERVICIOS",
+  "subtitle": "Puedo ayudarte con...",
+  "items": [
+      {
+        "title": "Landing Pages",
+        "description": "Landing pages rápidas, responsivas y optimizadas para conversiones, adaptadas a tus campañas."
+      },
+      {
+        "title": "Sitios para SaaS",
+        "description": "Sitios de marketing a medida para tu producto SaaS que comunican con claridad y convierten visitantes en clientes."
+      },
+      {
+        "title": "E-commerce",
+        "description": "Tiendas en Shopify o desarrollos personalizados enfocados en el rendimiento y optimizados para ventas."
+      },
+      {
+        "title": "Diseño UI/UX",
+        "description": "Interfaces modernas que no solo se ven bien, sino que también son intuitivas y fáciles de usar."
+      }
+    ]
+  },
+  "why": {
+    "heading": "¿Por qué trabajar conmigo?",
+    "intro": "Una mezcla de habilidades técnicas y un enfoque humano que garantizan excelentes resultados.",
+    "reasons": [
+      {
+        "title": "Pensamiento creativo y estratégico",
+        "description": "Combino sensibilidad por el diseño con resolución de problemas para construir productos digitales con propósito."
+      },
+      {
+        "title": "Eficiencia y confiabilidad",
+        "description": "Entrego en tiempo y forma, manteniendo una comunicación constante durante todo el proceso."
+      },
+      {
+        "title": "Espíritu colaborativo",
+        "description": "Disfruto trabajar con personas y adaptarme a la visión y objetivos de cada cliente."
+      },
+      {
+        "title": "Enfoque innovador",
+        "description": "Estoy al tanto de las tendencias, aportando ideas frescas e innovadoras a cada proyecto."
+      },
+      {
+        "title": "Atención al detalle",
+        "description": "Me enfoco en los pequeños detalles que generan un gran impacto en el resultado final."
+      },
+      {
+        "title": "Mentalidad centrada en el usuario",
+        "description": "Diseño con empatía para crear experiencias que conecten con personas reales."
+      }
+    ]
+  },
+  "faqs": {
+    "titleLine1": "DISEÑA TU FUTURO:",
+    "titleLine2": "CAMINO CLARO REVELADO",
+    "titleLine3": "PASO A PASO",
+    "questions": [
+      {
+        "q": "¿Cuánto tiempo lleva construir mi sitio web?",
+        "a": "El tiempo depende del alcance del proyecto, pero una web típica como una landing o tienda pequeña puede completarse en 2 a 4 semanas. Esto incluye descubrimiento, diseño, desarrollo, testeo y lanzamiento. Proyectos más complejos como SaaS pueden llevar más tiempo."
+      },
+      {
+        "q": "¿Puedo actualizar el contenido después de tener la web?",
+        "a": "¡Claro! Puedo integrar un CMS amigable para que edites textos, imágenes y productos fácilmente. Si no hay CMS, te doy una guía personalizada o video tutorial para que hagas cambios sin depender de nadie."
+      },
+      {
+        "q": "¿Qué soporte brindás después del lanzamiento?",
+        "a": "Ofrezco un soporte de 30 días después del lanzamiento para asegurar que todo funcione bien. También hay planes opcionales de mantenimiento para actualizaciones, seguridad, rendimiento y mejoras."
+      },
+      {
+        "q": "¿Podés crear funciones personalizadas como e-commerce o reservas?",
+        "a": "Sí, me especializo en soluciones personalizadas. Desde tiendas online con pagos hasta plataformas SaaS, puedo adaptar la solución a tus necesidades usando tecnologías modernas."
+      },
+      {
+        "q": "¿Mi sitio va a verse bien en celulares?",
+        "a": "Todos los sitios que desarrollo son responsive, asegurando una experiencia impecable en smartphones, tablets y computadoras. Diseño mobile-first y pruebo todo para garantizar rendimiento y usabilidad."
+      },
+      {
+        "q": "¿Qué necesitás de mí para comenzar un proyecto?",
+        "a": "Necesito conocer tus objetivos, contenido (como textos, logos o imágenes), y ejemplos de sitios que te gusten. Si no lo tenés claro, te guío con una fase de descubrimiento para definir todo juntos."
+      }
+    ]
+  },
+  "Contact": {
+    "title.part1": "Tu",
+    "title.highlight": "proyecto",
+    "title.part2": "tu valor añadido.",
+    "subtitle": "Construyamos algo que marque la diferencia.",
+    "email": "nicolas.siciliano.dev@gmail.com"
+  },
+  "footer": {
+    "slogan": "Dale vida al código. Que hable por vos.",
+    "projects": "Proyectos",
+    "social": "Social"
+  },
+    "dark_mode": {
+      "light": "Modo Claro",
+      "dark": "Modo Oscuro"
+    },
+    "change_language": "Cambiar idioma",
+    "project_detail": {
+    "visit_site": "Visitar sitio",
+    "about": "Sobre el proyecto",
+    "previous": "Anterior",
+    "next": "Siguiente",
+    "back_to_home": "Inicio",
+    "offer": "Propuesta",
+    "contact": "Contacto"
+  },
+  "projects": {
+    "crypto-hub": {
+      "role": "DESARROLLO FULL STACK",
+      "description": "Aplicación web para el seguimiento y análisis del mercado cripto. Diseñada como herramienta personal, permite visualizar precios en tiempo real, simular un portafolio, registrar operaciones y analizar tendencias. Integra datos de APIs públicas y guarda información personalizada por usuario. Desarrollada con Vue y Supabase."
+    },
+    "subilo": {
+      "role": "DESARROLLO FULL STACK / SEO",
+      "description": "Plataforma tipo SaaS para compartir pistas de audio de forma privada y en alta calidad. Proyecto personal en desarrollo, con enfoque en posicionamiento, experiencia de usuario y validación de idea. Desarrollada con React, Supabase y Tailwind."
+    },
+    "bykalanit": {
+      "role": "FREELANCE / LANDING / SEO",
+      "description": "Landing page diseñada para una clienta emprendedora. Presenta productos artesanales bordados a mano, con diseño responsive, identidad visual y optimización SEO. Desarrollada con next.js, tailwind y framer motion."
+    }
+  },
+  "social": {
+    "description": "Más allá del código, me apasiona el mundo cripto, la música y los espacios donde la creatividad se cruza con la tecnología. Disfruto conectar con personas curiosas, makers, músicos digitales o desarrolladores con ganas de crear y compartir.\n\nSi compartís esa energía, ¡conectemos!",
+    "connect": "Conecta conmigo →",
+    "explore": "Explora mi portafolio →"
+  }
 }

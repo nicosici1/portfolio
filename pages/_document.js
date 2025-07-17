@@ -12,7 +12,7 @@ export default function Document() {
         <meta property="og:description" content="Full-stack developer portfolio - MERN Stack, Design & more." />
         <meta property="og:image" content="/preview.jpg" />
       </Head>
-      <body className="font-sfpro">
+      <body>
         <Main />
         <NextScript />
       </body>
