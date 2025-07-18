@@ -18,7 +18,7 @@ export default function Navbar({ darkMode, setDarkMode, toggleLanguage }) {
        {isMounted ? (
         <Link href="/">
           <Image
-            src={darkMode ? "assets/logo-light.svg" : "assets/logo-dark.svg"}
+            src={darkMode ? "/assets/logo-light.svg" : "/assets/logo-dark.svg"}
             alt="Nicolás Siciliano Logo"
             width={32}
             height={32}

@@ -40,7 +40,7 @@ const ShowcaseCards = () => {
             className="group"
           >
             <motion.div
-              className="relative rounded-3xl overflow-hidden shadow-xl dark:shadow-2xl cursor-pointer bg-black transform-gpu transition-all duration-500"
+              className="relative h-[400px] md:h-[500px] lg:h-[600px] rounded-3xl overflow-hidden shadow-xl dark:shadow-2xl group"
               whileHover={{
                 scale: 1.1,
                 zIndex: 20,
@@ -54,18 +54,14 @@ const ShowcaseCards = () => {
               <Image
                 src={project.thumbnail || project.image}
                 alt={`${project.title} screenshot`}
-                width={1200}
-                height={650}
-                className="h-[500px] md:h-[650px] w-full object-cover group-hover:scale-105 transition-transform duration-500"
+                layout="fill"
+                objectFit="cover"
                 loading="lazy"
               />
-
               <div className="absolute inset-0 bg-gradient-to-t from-black via-black/40 to-transparent z-10" />
-
               <div className="absolute top-4 right-4 z-20 bg-white p-3 rounded-full shadow-md hover:scale-110 transition-transform">
                 <ArrowUpRight className="w-7 h-7 text-black" />
               </div>
-
               <div className="absolute bottom-4 left-4 right-4 z-20 text-left">
                 <p className="text-xs md:text-sm text-white/70 mb-1 drop-shadow-sm tracking-widest">
                   {t(`projects.${project.slug}.role`, project.role)}
