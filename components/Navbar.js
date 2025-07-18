@@ -2,6 +2,7 @@ import { useState, useEffect } from "react";
 import { FiGlobe, FiMenu, FiX } from "react-icons/fi";
 import { useTranslation } from "next-i18next";
 import Link from 'next/link';
+import Image from 'next/image';
 
 export default function Navbar({ darkMode, setDarkMode, toggleLanguage }) {
   const { t } = useTranslation();
@@ -16,9 +17,11 @@ export default function Navbar({ darkMode, setDarkMode, toggleLanguage }) {
     <nav className="fixed top-0 left-0 w-full z-50 backdrop-blur-md bg-white/30 dark:bg-neutral-900/30 px-6 md:px-20 lg:px-40 py-4 flex justify-between items-center dark:text-white">
        {isMounted ? (
         <Link href="/">
-          <img
+          <Image
             src={darkMode ? "assets/logo-light.svg" : "assets/logo-dark.svg"}
             alt="Nicolás Siciliano Logo"
+            width={100}
+            height={100}
             className="h-8 w-auto hover:scale-105 transition-transform duration-300 cursor-pointer"
           />
         </Link>

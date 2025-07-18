@@ -4,6 +4,7 @@ import { useTranslation } from 'next-i18next';
 import Link from 'next/link';
 import { useRouter } from 'next/router';
 import { projects } from '../data/projects';
+import Image from 'next/image';
 
 const ShowcaseCards = () => {
   const { t } = useTranslation('translation');
@@ -50,9 +51,11 @@ const ShowcaseCards = () => {
               transition={{ delay: idx * 0.1 }}
               title={project.title}
             >
-              <img
+              <Image
                 src={project.thumbnail || project.image}
                 alt={`${project.title} screenshot`}
+                width={1200}
+                height={650}
                 className="h-[500px] md:h-[650px] w-full object-cover group-hover:scale-105 transition-transform duration-500"
                 loading="lazy"
               />
