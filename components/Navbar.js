@@ -20,8 +20,8 @@ export default function Navbar({ darkMode, setDarkMode, toggleLanguage }) {
           <Image
             src={darkMode ? "assets/logo-light.svg" : "assets/logo-dark.svg"}
             alt="Nicolás Siciliano Logo"
-            width={100}
-            height={100}
+            width={32}
+            height={32}
             className="h-8 w-auto hover:scale-105 transition-transform duration-300 cursor-pointer"
           />
         </Link>
