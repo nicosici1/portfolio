@@ -1,0 +1,41 @@
+{
+  "heroTitle": {
+    "availableForProjects": "Disponible para nuevos Proyectos",
+    "heroDescription": "Me especializo en crear sitios y aplicaciones web elegantes y de alto rendimiento usando tecnologías de vanguardia.",   
+    "line1": "Tecnología en el",
+    "highlight1": "Servicio",
+    "line2": "de tus",
+    "highlight2": "Ideas"
+  },
+  
+  "showcase": {
+    "title": "Proyectos",
+    "subtitle": "Algunos de mis trabajos más recientes"
+  },
+  "aboutMe": {
+    "heading": "Transformo la complejidad en simplicidad digital, con un enfoque que combina diseño moderno y rendimiento excepcional. Desarrollar no es sólo mi trabajo, es mi pasión.",
+    "title": "ACERCA DE MÍ",
+    "paragraph1": "Me dedico a crear sitios web dinámicos y responsivos, con atención al detalle para ofrecer experiencias de usuario fluidas y atractivas. ",
+    "paragraph2": "Me encanta trabajar con las últimas tecnologías y convertir ideas en realidad digital. Disfruto explorando nuevas tendencias en diseño y mejorando continuamente mis habilidades."
+  },
+  "servicesTitle": "Servicios",
+  "servicesDescription": "Desde la idea hasta la ejecución, transformo visiones en soluciones digitales.",
+  "landingPagesTitle": "Landing Pages",
+  "landingPagesDescription": "Páginas de aterrizaje enfocadas en conversión, adaptadas a tu negocio.",
+  "whatIOffer": "Lo que ofrezco:",
+  "landingPagesOffer1": "Diseño responsivo",
+  "landingPagesOffer2": "Optimización SEO",
+  "landingPagesOffer3": "Carga rápida",
+  "landingPagesOffer4": "Animaciones personalizadas",
+  "designsTitle": "Diseño Gráfico",
+  "designsDescription": "Visuales que dejan una impresión duradera.",
+  "designTools": "Herramientas que uso:",
+  "photoshop": "Photoshop",
+  "illustrator": "Illustrator",
+  "mernTitle": "Desarrollo MERN Stack",
+  "mernDescription": "Aplicaciones full-stack con MongoDB, Express, React y Node.",
+  "mernOffer1": "APIs personalizadas",
+  "mernOffer2": "Integración de bases de datos",
+  "mernOffer3": "Interfaz responsiva",
+  "mernOffer4": "Sistemas de autenticación"
+}

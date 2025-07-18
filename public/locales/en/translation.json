@@ -1,0 +1,41 @@
+{
+  "heroTitle": {
+    "availableForProjects": "Available for new projects",
+    "heroDescription": "I develop modern web solutions by integrating design, logic, and external services to bring impactful projects to life.",
+    "line1": "Technology at the",
+    "highlight1": "Service",
+    "line2": "of your",
+    "highlight2": "Ideas"
+  },
+  
+  "showcase": {
+    "title": "SHOWCASE",
+    "subtitle": "Some of my latest work"
+  },
+  "aboutMe": {
+    "heading": "I turn complexity into digital simplicity, with an approach that blends modern design and exceptional performance. Developing isn’t just my job — it’s my passion.",
+    "title": "ABOUT ME",
+    "paragraph1": "I specialize in building dynamic, responsive websites, with great attention to detail to deliver smooth and engaging user experiences.",
+    "paragraph2": "I love working with the latest technologies and turning ideas into digital reality. I enjoy exploring new design trends and constantly improving my skills."
+  },
+  "servicesTitle": "Services",
+  "servicesDescription": "From idea to execution, I turn visions into digital solutions.",
+  "landingPagesTitle": "Landing Pages",
+  "landingPagesDescription": "Conversion-focused landing pages tailored to your business.",
+  "whatIOffer": "What I offer:",
+  "landingPagesOffer1": "Responsive design",
+  "landingPagesOffer2": "SEO optimization",
+  "landingPagesOffer3": "Fast loading speed",
+  "landingPagesOffer4": "Custom animations",
+  "designsTitle": "Graphic Design",
+  "designsDescription": "Visuals that leave a lasting impression.",
+  "designTools": "Tools I use:",
+  "photoshop": "Photoshop",
+  "illustrator": "Illustrator",
+  "mernTitle": "MERN Stack Development",
+  "mernDescription": "Full-stack applications built with MongoDB, Express, React, and Node.",
+  "mernOffer1": "Custom APIs",
+  "mernOffer2": "Database integration",
+  "mernOffer3": "Responsive UI",
+  "mernOffer4": "Authentication systems"
+}
